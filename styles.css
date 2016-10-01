@@ -1,6 +1,7 @@
 body {
   padding: 5%;
-  background-color: #f3f3f3;
+  background-color: #f3f3f3
+  border: 10px;
 }
 
 .gradeBox {
